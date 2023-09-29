@@ -1,0 +1,34 @@
+.right{
+    width: 50%;
+    float: right;
+    background-color: #d5c455;
+}
+.left{
+    width: 50%;
+    float: left;
+}
+h1{
+    margin-left: 300px;
+    padding-bottom: 200px;
+    font-size: 2em;
+}
+.first{
+    margin-left: 300px;
+}
+.second{
+    margin-left: 300px;
+}
+
+.ui{
+    color: #d5c455;
+    font-weight: bold;
+    font-size: larger;
+}
+.jhon{
+    font-family: 'Martian Mono', monospace;
+    font-weight: bold;
+    font-size: 3.5em;
+}
+#button{
+    background-color: #d5c455;
+}
